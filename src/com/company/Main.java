@@ -6,4 +6,5 @@ public class Main {
 	// write your code here
         int f = 0;
     }
+    public  void u(){}
 }
