@@ -7,4 +7,5 @@ public class Main {
         int f = 0;
     }
     public  void u(){}
+	;
 }
